@@ -1,5 +1,17 @@
 # @apps/gallery
 
+## 4.2.0-3f0d3b12.1
+
+### Minor Changes
+
+- chore: new canary release
+
+### Patch Changes
+
+- Updated dependencies []:
+  - @web3modal/common@4.2.0-3f0d3b12.1
+  - @web3modal/ui@4.2.0-3f0d3b12.1
+
 ## 4.2.0-500a38.0
 
 ### Minor Changes

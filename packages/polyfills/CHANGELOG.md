@@ -1,5 +1,11 @@
 # @web3modal/polyfills
 
+## 4.2.0-3f0d3b12.1
+
+### Minor Changes
+
+- chore: new canary release
+
 ## 4.2.0-500a38.0
 
 ### Minor Changes
