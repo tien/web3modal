@@ -1,5 +1,11 @@
 # @web3modal/polyfills
 
+## 4.2.0-500a38.0
+
+### Minor Changes
+
+- feat: solana integration
+
 ## 4.1.1
 
 ### Patch Changes

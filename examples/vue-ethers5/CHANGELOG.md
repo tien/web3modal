@@ -1,5 +1,16 @@
 # @examples/vue-ethers5
 
+## 4.2.0-500a38.0
+
+### Minor Changes
+
+- feat: solana integration
+
+### Patch Changes
+
+- Updated dependencies []:
+  - @web3modal/ethers5@4.2.0-500a38.0
+
 ## 4.1.1
 
 ### Patch Changes

@@ -1,5 +1,17 @@
 # @web3modal/siwe
 
+## 4.2.0-500a38.0
+
+### Minor Changes
+
+- feat: solana integration
+
+### Patch Changes
+
+- Updated dependencies []:
+  - @web3modal/scaffold-utils@4.2.0-500a38.0
+  - @web3modal/core@4.2.0-500a38.0
+
 ## 4.1.1
 
 ### Patch Changes
